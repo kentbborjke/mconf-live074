@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<layouts>
+  <layout name="bbb.layout.name.defaultlayout" default="true">
+    <window name="VideoDock" minimized="false" maximized="false" hidden="false" width="0.2888030888030888" height="0.4113821138211382" minWidth="-1" x="0.7104247104247104" y="0.5804878048780487" order="2"/>
+    <window name="UsersWindow" minimized="false" maximized="false" hidden="false" width="0.21621621621621623" height="0.6780487804878049" minWidth="-1" x="0" y="0" order="3"/>
+    <window name="PresentationWindow" minimized="false" maximized="false" hidden="false" width="0.4888030888030888" height="0.9934959349593496" minWidth="-1" x="0.21853281853281853" y="0" order="1"/>
+    <window name="SharedNotesWindow" minimized="false" maximized="false" hidden="false" width="0.21621621621621623" height="0.3073170731707317" minWidth="-1" x="0" y="0.6861788617886179" order="4"/>
+    <window name="ChatWindow" minimized="false" maximized="false" hidden="false" width="0.2888030888030888" height="0.5756097560975609" minWidth="-1" x="0.7104247104247104" y="0" order="0"/>
+  </layout>
+  <layout name="bbb.layout.name.videochat">
+    <window name="VideoDock" minimized="false" maximized="true" hidden="false" width="0.2888030888030888" height="0.4113821138211382" minWidth="-1" x="0.7104247104247104" y="0.5804878048780487" order="0"/>
+    <window name="UsersWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.6780487804878049" minWidth="-1" x="0" y="0" order="2"/>
+    <window name="PresentationWindow" minimized="true" maximized="false" hidden="false" width="0.4888030888030888" height="0.9934959349593496" minWidth="-1" x="0.21853281853281853" y="0" order="3"/>
+    <window name="SharedNotesWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.3073170731707317" minWidth="-1" x="0" y="0.6861788617886179" order="1"/>
+    <window name="ChatWindow" minimized="true" maximized="false" hidden="false" width="0.2888030888030888" height="0.5756097560975609" minWidth="-1" x="0.7104247104247104" y="0" order="4"/>
+  </layout>
+  <layout name="bbb.layout.name.webcamsfocus">
+    <window name="VideoDock" minimized="false" maximized="false" hidden="false" width="0.6563706563706564" height="0.9951219512195122" minWidth="-1" x="0" y="0" order="2"/>
+    <window name="UsersWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.6780487804878049" minWidth="-1" x="0" y="0" order="2"/>
+    <window name="PresentationWindow" minimized="false" maximized="false" hidden="false" width="0.33976833976833976" height="0.4585365853658537" minWidth="-1" x="0.6579150579150579" y="0.5349593495934959" order="4"/>
+    <window name="SharedNotesWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.3073170731707317" minWidth="-1" x="0" y="0.6861788617886179" order="1"/>
+    <window name="ChatWindow" minimized="false" maximized="false" hidden="false" width="0.338996138996139" height="0.5300813008130081" minWidth="-1" x="0.6579150579150579" y="0" order="0"/>
+  </layout>
+  <layout name="bbb.layout.name.presentfocus">
+    <window name="PresentationWindow" minimized="false" maximized="false" hidden="false" width="0.6563706563706564" height="0.9951219512195122" minWidth="-1" x="0" y="0" order="2"/>
+    <window name="UsersWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.6780487804878049" minWidth="-1" x="0" y="0" order="2"/>
+    <window name="VideoDock" minimized="false" maximized="false" hidden="false" width="0.33976833976833976" height="0.4585365853658537" minWidth="-1" x="0.6579150579150579" y="0.5349593495934959" order="4"/>
+    <window name="SharedNotesWindow" minimized="true" maximized="false" hidden="false" width="0.21621621621621623" height="0.3073170731707317" minWidth="-1" x="0" y="0.6861788617886179" order="1"/>
+    <window name="ChatWindow" minimized="false" maximized="false" hidden="false" width="0.338996138996139" height="0.5300813008130081" minWidth="-1" x="0.6579150579150579" y="0" order="0"/>
+  </layout>
+</layouts>
