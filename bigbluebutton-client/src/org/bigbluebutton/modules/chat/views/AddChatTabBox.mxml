@@ -52,7 +52,7 @@ with BigBlueButton; if not, see <http://www.gnu.org/licenses/>.
 			
             [Bindable] public var users:ArrayCollection;
             [Bindable] public var chatView:ChatView;
-            [Bindable] private var fontSizes:Array = ['8', '10', '12', '14', '16', '18'];
+            [Bindable] private var fontSizes:Array = ['8', '10', '12', '14', '16', '18', '20', '22', '24', '26', '28', '30', '32'];
             
             [Bindable] public var chatOptions:ChatOptions = new ChatOptions();		
             
