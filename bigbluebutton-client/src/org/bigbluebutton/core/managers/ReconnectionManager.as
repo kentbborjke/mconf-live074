@@ -51,8 +51,8 @@ package org.bigbluebutton.core.managers
 
     private var _connections:Dictionary = new Dictionary();
     private var _reestablished:ArrayCollection = new ArrayCollection();
-    private var _reconnectTimer:Timer = new Timer(10000, 1);
-    private var _reconnectTimeout:Timer = new Timer(30000, 1);
+    private var _reconnectTimer:Timer = new Timer(30000, 1);
+    private var _reconnectTimeout:Timer = new Timer(45000, 1);
     private var _dispatcher:Dispatcher = new Dispatcher();
     private var _popup:IFlexDisplayObject = null;
     private var _canceled:Boolean = false;
